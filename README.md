@@ -1,3 +1,3 @@
 # Learn
 
-## 学习使用github
+## learn to use github
